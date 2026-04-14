@@ -1,0 +1,907 @@
+{
+  "description": "Locked IRS worked-example harness.",
+  "source_count": 10,
+  "max_cases": 100,
+  "locked_examples": [
+    {
+      "example_id": "irsx_c521196f27376541",
+      "source": "i1040sc",
+      "source_label": "Sch. C Instructions",
+      "section_id": "en_US_2024_publink24329wd0e590",
+      "heading": "Example.",
+      "conclusion": "Include any net positive section 481(a) adjustments on line 6.",
+      "text_prefix": "You change to the cash method of accounting and choose to account for inventoriable items in the same manner as nonincidental materials and supplies for the 2025 tax year. You accrued sales in 2024 for which you received"
+    },
+    {
+      "example_id": "irsx_5f9da59561dd545c",
+      "source": "i1040sc",
+      "source_label": "Sch. C Instructions",
+      "section_id": "en_US_2025_publink1000156060",
+      "heading": "Example.",
+      "conclusion": "The qualified business uses share 100 square feet.",
+      "text_prefix": "Taylor and Logan are roommates. Taylor uses 300 square feet of their home for a qualified business use. Logan uses 200 square feet of their home for a separate qualified business use. The qualified business uses share 10"
+    },
+    {
+      "example_id": "irsx_aafd41977d014169",
+      "source": "i1040sc",
+      "source_label": "Sch. C Instructions",
+      "section_id": "en_US_2025_publink1000156062",
+      "heading": "Example 1.",
+      "conclusion": "On July 20, Finley began using 400 square feet of the home for a qualified business use.",
+      "text_prefix": "Finley files a federal income tax return on a calendar year basis. On July 20, Finley began using 400 square feet of the home for a qualified business use. Finley continued to use the 400 square feet until the end of the"
+    },
+    {
+      "example_id": "irsx_3cd174606df75612",
+      "source": "i1040sc",
+      "source_label": "Sch. C Instructions",
+      "section_id": "en_US_2025_publink1000156063",
+      "heading": "Example 2.",
+      "conclusion": "Riley’s average monthly allowable square footage is 150 square feet (100 square feet for May through July and 300 square feet for August through December divided by the number of months in the year ((100 + 100 +100 + 300 + 300 + 300 + 300 + 300)/12)).",
+      "text_prefix": "Riley files a federal income tax return on a calendar year basis. On April 20, Riley began using 100 square feet of the home for a qualified business use. On August 5, Riley expanded the area of qualified business use to"
+    },
+    {
+      "example_id": "irsx_57b9007395768ed2",
+      "source": "i1040sc",
+      "source_label": "Sch. C Instructions",
+      "section_id": "en_US_2025_publink1000156064",
+      "heading": "Example 3.",
+      "conclusion": "Carter also prepared Form 8829 to deduct the actual expenses associated with the qualified business use of the new home.",
+      "text_prefix": "Carter files a federal income tax return on a calendar year basis. From January 1 through July 16, Carter used 300 square feet of the home for a qualified business use. On July 17, Carter moved to a new home and immediat"
+    },
+    {
+      "example_id": "irsx_c50b728d4f6d3817",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink1000285550",
+      "heading": "Example.",
+      "conclusion": "Your gain is $20 ($100 − $80).",
+      "text_prefix": "You think the value of XYZ stock will drop. You borrow 10 shares from your broker and sell them for $100. This is a short sale. You later buy 10 shares for $80 and deliver them to your broker to close the short sale. You"
+    },
+    {
+      "example_id": "irsx_1107c8cf8f1a9e07",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink1000285554",
+      "heading": "Example.",
+      "conclusion": "Enter  E  in column (f) and $10 in column (g).",
+      "text_prefix": "For $10 in 2013, you sold Joe an option to buy one share of XYZ stock for $80. Joe later exercised the option. The Form 1099-B or Form 1099-DA you get shows the proceeds to be $80. Enter $80 in column (d) of Form 8949. E"
+    },
+    {
+      "example_id": "irsx_094b7c7086f09384",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink1000285580",
+      "heading": "Example.",
+      "conclusion": "Put it in parentheses to show it is a negative amount.",
+      "text_prefix": "You sold section 1244 stock for $1,000. Your basis was $60,000. You had held the stock for 3 years. You can claim $50,000 of your loss as an ordinary loss on Form 4797. To claim the rest of the loss on Form 8949, check t"
+    },
+    {
+      "example_id": "irsx_a2d4a831506174d9",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink1000308709",
+      "heading": "Example 1—Basis Reported to the IRS",
+      "conclusion": "Enter $11,000 ($6,000 + $5,000) on Schedule D, line 8a, column (d); $5,000 ($2,000 + $3,000) in column (e); and $6,000 ($11,000 − $5,000) in column (h).",
+      "text_prefix": "You received a Form 1099-B or Form 1099-DA reporting the sale of stock you held for 3 years. It shows proceeds (in box 1d on Form 1099-B or box 1f on Form 1099-DA) of $6,000 and cost or other basis (in box 1e on Form 109"
+    },
+    {
+      "example_id": "irsx_6a83c338a87615b4",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink1000308710",
+      "heading": "Example 2—Basis Not Reported to the IRS",
+      "conclusion": "It shows proceeds (in box 1d on Form 1099-B or box 1f on Form 1099-DA) of $6,000 and cost or other basis (in box 1e on Form 1099-B or box 1g on Form 1099-DA) of $2,000.",
+      "text_prefix": "You received a Form 1099-B or Form 1099-DA. It shows proceeds (in box 1d on Form 1099-B or box 1f on Form 1099-DA) of $6,000 and cost or other basis (in box 1e on Form 1099-B or box 1g on Form 1099-DA) of $2,000. Box 12 "
+    },
+    {
+      "example_id": "irsx_2f85c4226ee7b3d3",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink1000308711",
+      "heading": "Example 3—Adjustment",
+      "conclusion": "However, the basis shown (in box 1e on Form 1099-B or box 1g on Form 1099-DA) is incorrect.",
+      "text_prefix": "You received a Form 1099-B or Form 1099-DA. It shows proceeds (in box 1d on Form 1099-B or box 1f on Form 1099-DA) of $6,000 and cost or other basis (in box 1e on Form 1099-B or box 1g on Form 1099-DA) of $2,000. Box 12 "
+    },
+    {
+      "example_id": "irsx_f2fbf43e73874ebd",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink100032252",
+      "heading": "Example.",
+      "conclusion": "Then enter -0- ($5,000 − $6,000 + $1,000) in column (h).",
+      "text_prefix": "You have a loss on the sale of a vacation home that isn’t your main home and you received a Form 1099-S for the transaction. Report the transaction in Part I or Part II of Form 8949, depending on how long you owned the h"
+    },
+    {
+      "example_id": "irsx_bfcd496b485f2a9a",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2024_publink24331id0e858",
+      "heading": "Example 3—adjustment.",
+      "conclusion": "Enter $3,000 ($6,000 − $2,000 − $1,000) in column (h).",
+      "text_prefix": "Column (d) is $6,000, column (e) is $2,000, and column (g) is ($1,000). Enter $3,000 ($6,000 − $2,000 − $1,000) in column (h)."
+    },
+    {
+      "example_id": "irsx_f9ad695d7f7f021c",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2025_publink1000150242",
+      "heading": "Example.",
+      "conclusion": "For 8 years, from 2016 through 2024, you served on qualified official extended duty as a member of the uniformed services in Kuwait.",
+      "text_prefix": "You buy a house in Virginia in 2013 and use it as your main home for 3 years. For 8 years, from 2016 through 2024, you served on qualified official extended duty as a member of the uniformed services in Kuwait. In 2025, "
+    },
+    {
+      "example_id": "irsx_fc02f4b33f972d96",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2025_publink1000150263",
+      "heading": "Example 1.",
+      "conclusion": "In column (h), enter -0- ($10,000 − $15,000 + $5,000).",
+      "text_prefix": "You sold land you held as an investment for 5 years to your brother for $10,000. Your basis was $15,000. On Part II of Form 8949, check box F or box L at the top. Enter $10,000 on Form 8949, Part II, column (d). Enter $1"
+    },
+    {
+      "example_id": "irsx_7af7d5c6ab8df73a",
+      "source": "i1040sd",
+      "source_label": "Sch. D Instructions",
+      "section_id": "en_US_2025_publink1000150264",
+      "heading": "Example 2.",
+      "conclusion": "In column (h), enter -0- ($1,000 - $5,000 + $4,000).",
+      "text_prefix": "You received a Form 1099-B or Form 1099-DA. It shows proceeds (in box 1d on Form 1099-B or box 1f on Form 1099-DA) of $1,000 and basis (in box 1e on Form 1099-B or box 1g on Form 1099-DA) of $5.000. Box 7 on Form 1099-B "
+    },
+    {
+      "example_id": "irsx_c8b6845ad358e817",
+      "source": "i8829",
+      "source_label": "Form 8829 Instructions",
+      "section_id": "en_US_2025_publink100012411",
+      "heading": "Example.",
+      "conclusion": "If you paid $15,000 of home mortgage interest on loans used to buy, build, or substantially improve the home in which you conducted business but would only be able to deduct $12,000 on Schedule A because of the limits that apply to deducting home mortgage interest as a personal expense, include $3,000 ($15,000 − $12,000 = $3,000) in column (b) of line 16.",
+      "text_prefix": "If you paid $15,000 of home mortgage interest on loans used to buy, build, or substantially improve the home in which you conducted business but would only be able to deduct $12,000 on Schedule A because of the limits th"
+    },
+    {
+      "example_id": "irsx_0ef1493641df53fd",
+      "source": "i8829",
+      "source_label": "Form 8829 Instructions",
+      "section_id": "en_US_2025_publink15683bd0e337",
+      "heading": "Example.",
+      "conclusion": "Enter 3,400 hours on line 4 (3,000 hours for weekdays plus 400 hours for Saturdays).",
+      "text_prefix": "Your home is used Monday through Friday for 12 hours per day for 250 days during the year. It is also used on 50 Saturdays for 8 hours per day. Enter 3,400 hours on line 4 (3,000 hours for weekdays plus 400 hours for Sat"
+    },
+    {
+      "example_id": "irsx_294fe2e3bc9d9918",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2023_publink100032392",
+      "heading": "Example.",
+      "conclusion": "Tax on $40,100 based on a separate return  \n $4,577 \n \n \n \n \n Tax on $8,400 based on a separate return  \n  843 \n \n \n \n \n Total  \n $5,420 \n \n \n \n \n Owen’s percentage of total ($4,577 ÷ $5,420)  \n 84.4465%  \n \n \n \n \n Owen’s share of tax on joint return  ($5,346 × 84.4465%)  \n $4,514",
+      "text_prefix": "Owen and Sophia filed a joint return for 2025 showing taxable income of $48,500 and tax of $5,346. Of the $48,500 taxable income, $40,100 was Owen’s and the rest was Sophia’s. For 2026, they plan to file married filing s"
+    },
+    {
+      "example_id": "irsx_6813dcdcc9dac61c",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2024_publink1000170837",
+      "heading": "Example.",
+      "conclusion": "After 2025, you can file as head of household if you qualify.",
+      "text_prefix": "Your spouse died in 2023 and you haven’t remarried. During 2024 and 2025 you continued to keep up a home for you and your child who lives with you and whom you can claim as a dependent. For 2023, you were entitled to fil"
+    },
+    {
+      "example_id": "irsx_fdfd0d10223ec25b",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2024_publink1000171939",
+      "heading": "Example.",
+      "conclusion": "Ryan and Jordan will use $2,500 ($3,000 minus $500) as the amount of their net benefits when figuring if any of their combined benefits are taxable.",
+      "text_prefix": "Ryan and Jordan file a joint return for 2025. Ryan received Form SSA-1099 showing $3,000 in box 5. Jordan also received Form SSA-1099 and the amount in box 5 was ($500). Ryan and Jordan will use $2,500 ($3,000 minus $500"
+    },
+    {
+      "example_id": "irsx_5fdccd036af8949e",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2024_publink1000248515",
+      "heading": "Example 1—Child.",
+      "conclusion": "As a result, this child is your qualifying child (see  Qualifying Child  in chapter 3) and, because this child is single, this is your qualifying person for head of household purposes.",
+      "text_prefix": "Your unmarried child lived with you all year and was 18 years old at the end of the year. Your child didn't provide more than half of their own support and doesn't meet the tests to be a qualifying child of anyone else. "
+    },
+    {
+      "example_id": "irsx_9b958ccd4549eb83",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2024_publink1000248517",
+      "heading": "Example 2—Child who isn't qualifying person.",
+      "conclusion": "As a result, this child isn't your qualifying person for head of household purposes.",
+      "text_prefix": "The facts are the same as in  Example 1 , except your child was 25 years old at the end of the year and your child’s gross income was $6,000. Because your child doesn't meet the  age test  (explained under  Qualifying Ch"
+    },
+    {
+      "example_id": "irsx_6bfa0d30b500a8b5",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2024_publink1000248521",
+      "heading": "Example 3—Friend.",
+      "conclusion": "Even though your friend may be your qualifying relative if the gross income and support tests (explained in chapter 3) are met, your friend isn't your qualifying person for head of household purposes because your friend isn't related to you in one of the ways listed under  Relatives who don’t have to live with you  in chapter 3.",
+      "text_prefix": "Your friend lived with you all year. Even though your friend may be your qualifying relative if the gross income and support tests (explained in chapter 3) are met, your friend isn't your qualifying person for head of ho"
+    },
+    {
+      "example_id": "irsx_18631d08fc545c67",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2024_publink1000248524",
+      "heading": "Example 4—Friend's child.",
+      "conclusion": "As a result, your friend’s child isn't your qualifying person for head of household purposes.",
+      "text_prefix": "The facts are the same as in  Example 3 , except your friend's 10-year-old child also lived with you all year. Your friend’s child isn't your qualifying child and, because the child is your friend's qualifying child, you"
+    },
+    {
+      "example_id": "irsx_d8e071078008a490",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000168663",
+      "heading": "Example 2.",
+      "conclusion": "They can exclude $1,516.15 ($3,052 × ($4,000 ÷ $8,052)) of interest on their 2024 joint income tax return.",
+      "text_prefix": "In January 2024, Mark and Joan, a married couple, cashed qualified Series EE U.S. savings bonds with a total denomination of $10,000 that they bought in January 2008 for $5,000. They received proceeds of $8,052, represen"
+    },
+    {
+      "example_id": "irsx_df8c1c759dfc98ab",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink100017020",
+      "heading": "Example.",
+      "conclusion": "However, if your spouse died on February 12, 2025, your spouse isn't considered age 65 at the time of death and isn't 65 or older at the end of 2025.",
+      "text_prefix": "Your spouse was born on February 14, 1960, and died on February 13, 2025. Your spouse is considered age 65 at the time of death. However, if your spouse died on February 12, 2025, your spouse isn't considered age 65 at t"
+    },
+    {
+      "example_id": "irsx_e47a514383b89743",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink100017024",
+      "heading": "Example 1.",
+      "conclusion": "Their standard deduction is $31,500.",
+      "text_prefix": "A married couple, 46 and 33 years old, are filing a joint return for 2025. Neither is blind, and neither can be claimed as a dependent. They decide not to itemize their deductions. They use  Table 10-1 . Their standard d"
+    },
+    {
+      "example_id": "irsx_3b03c6dbe7bc9949",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink100017026",
+      "heading": "Example 2.",
+      "conclusion": "Their standard deduction is $33,100.",
+      "text_prefix": "The facts are the same as in  Example 1 , except that one of the spouses is blind at the end of 2025. They use  Table 10-2 . Their standard deduction is $33,100."
+    },
+    {
+      "example_id": "irsx_2523c2f7de78d3b1",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink100017028",
+      "heading": "Example 3.",
+      "conclusion": "Their standard deduction is $34,700.",
+      "text_prefix": "A married couple is filing a joint return for 2025. Both are over age 65. Neither is blind, and neither can be claimed as a dependent. If they don't itemize deductions, they use  Table 10-2 . Their standard deduction is "
+    },
+    {
+      "example_id": "irsx_7579c7821f5f94e5",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170520",
+      "heading": "Example.",
+      "conclusion": "If your return is due on April 15, 2026, you will have until October 15, 2026, to file.",
+      "text_prefix": "If your return is due on April 15, 2026, you will have until October 15, 2026, to file."
+    },
+    {
+      "example_id": "irsx_f304ea5ca91ffdfc",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170563",
+      "heading": "Example.",
+      "conclusion": "Therefore, Lennon didn’t constructively receive the amount by which Lennon’s salary was reduced to pay the substitute teacher.",
+      "text_prefix": "Lennon, a teacher, agreed to the school board’s condition that, in Lennon’s absence, Lennon would receive only the difference between Lennon’s regular salary and the salary of a substitute teacher hired by the school boa"
+    },
+    {
+      "example_id": "irsx_af52dca6ca647754",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170698",
+      "heading": "Example 1.",
+      "conclusion": "Because you filed your claim within 3 years after you filed your original return, you can get a refund of up to $700, the tax paid within the 3 years plus the 6-month extension period immediately before you filed the claim.",
+      "text_prefix": "You made estimated tax payments of $500 and got an automatic extension of time to October 15, 2022, to file your 2021 income tax return. When you filed your return on that date, you paid an additional $200 tax. On Octobe"
+    },
+    {
+      "example_id": "irsx_61cf72f50177fe87",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170699",
+      "heading": "Example 2.",
+      "conclusion": "The estimated tax of $500 paid before that period can’t be refunded or credited.",
+      "text_prefix": "The situation is the same as in  Example 1 , except you filed your return on October 30, 2022, 2 weeks after the extension period ended. You paid an additional $200 on that date. On October 30, 2025, you filed an amended"
+    },
+    {
+      "example_id": "irsx_baf71ee0b72305fa",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170700",
+      "heading": "Example.",
+      "conclusion": "However, because you filed your claim more than 3 years after you filed your return, your refund will be limited to the $200 you paid during the 2 years immediately before you filed your claim.",
+      "text_prefix": "You filed your 2021 tax return on April 15, 2022. You paid taxes of $500. On November 5, 2023, after an examination of your 2021 return, you had to pay an additional tax of $200. On May 12, 2025, you file a claim for a r"
+    },
+    {
+      "example_id": "irsx_327c7ed738220d50",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170867",
+      "heading": "Example 1—Child files joint return.",
+      "conclusion": "Your child’s spouse earned $35,000 for the year.",
+      "text_prefix": "You supported your 18-year-old child who lived with you all year while your child’s spouse was in the Armed Forces. Your child’s spouse earned $35,000 for the year. The couple files a joint return. You can’t claim your c"
+    },
+    {
+      "example_id": "irsx_9d6585d66c2bb34f",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170884",
+      "heading": "Example.",
+      "conclusion": "Unless this child was permanently and totally disabled or a student, this child doesn't meet the age test because, at the end of the year, this child wasn't  under  age 19.",
+      "text_prefix": "Your child turned 19 on December 10. Unless this child was permanently and totally disabled or a student, this child doesn't meet the age test because, at the end of the year, this child wasn't  under  age 19."
+    },
+    {
+      "example_id": "irsx_f2f411a99ab6bad1",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170937",
+      "heading": "Example 1.",
+      "conclusion": "This child isn't your qualifying relative.",
+      "text_prefix": "Your 22-year-old child, who is a student, lives with you and meets all the tests to be your qualifying child. This child isn't your qualifying relative."
+    },
+    {
+      "example_id": "irsx_fbd992cd109e8da1",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170938",
+      "heading": "Example 2.",
+      "conclusion": "This child isn't your qualifying relative.",
+      "text_prefix": "Your 2-year-old child lives with your parents and meets all the tests to be their qualifying child. This child isn't your qualifying relative."
+    },
+    {
+      "example_id": "irsx_0e99bc65ce9c90f7",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170939",
+      "heading": "Example 3.",
+      "conclusion": "This child may be your qualifying relative if the gross income test and the support test are met.",
+      "text_prefix": "Your 30-year-old child lives with you. This child isn’t a qualifying child because the age test isn’t met. This child may be your qualifying relative if the gross income test and the support test are met."
+    },
+    {
+      "example_id": "irsx_cd21abe7b0fd677c",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170940",
+      "heading": "Example 4.",
+      "conclusion": "Your grandchild may be your qualifying relative if the gross income test and the support test are met.",
+      "text_prefix": "Your 13-year-old grandchild only lived with you for 5 months during the year. Your grandchild isn’t your qualifying child because the residency test isn’t met. Your grandchild may be your qualifying relative if the gross"
+    },
+    {
+      "example_id": "irsx_94cde73bcada9f77",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170942",
+      "heading": "Example 1—Return not required.",
+      "conclusion": "Both your friend and your friend’s child are your qualifying relatives if the support test is met.",
+      "text_prefix": "You support an unrelated friend and your friend’s 3-year-old child, who lived with you all year in your home. Your friend has no gross income, isn't required to file a 2025 tax return, and doesn't file a 2025 tax return."
+    },
+    {
+      "example_id": "irsx_68c0e5066d28017e",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170943",
+      "heading": "Example 2—Return filed to claim refund.",
+      "conclusion": "Both your friend and your friend’s child are your qualifying relatives if the support test is met.",
+      "text_prefix": "The facts are the same as in  Example 1 , except your friend had wages of $1,500 during the year and had income tax withheld from their wages. Your friend files a return only to get a refund of the income tax withheld an"
+    },
+    {
+      "example_id": "irsx_d363d6701bc71ea2",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170944",
+      "heading": "Example 3—Earned income credit claimed.",
+      "conclusion": "Also, you can’t claim your friend as your qualifying relative because of the gross income test, explained later.",
+      "text_prefix": "The facts are the same as in  Example 2 , except your friend had wages of $8,000 during the year and claimed the earned income credit. Your friend's child is the qualifying child of another taxpayer (your friend), so you"
+    },
+    {
+      "example_id": "irsx_b71f785dff79d8d1",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170947",
+      "heading": "Example.",
+      "conclusion": "You may also be able to claim your parent as a dependent if the gross income and support tests are met.",
+      "text_prefix": "You provide all the support of your children, ages 6, 8, and 12, who live in Mexico with your parent and have no income. You are single and live in the United States. Your parent isn't a U.S. citizen and has no U.S. inco"
+    },
+    {
+      "example_id": "irsx_0678853a188abace",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170952",
+      "heading": "Example.",
+      "conclusion": "You can claim Gene as a dependent if all other tests are met, including the gross income and support tests.",
+      "text_prefix": "In 2019, you and your spouse began supporting your spouse’s unmarried parent, Gene. Your spouse died in 2024. Despite your spouse’s death, Gene continues to meet this test, even if Gene doesn’t live with you. You can cla"
+    },
+    {
+      "example_id": "irsx_7b443c6f8b05a1bf",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170957",
+      "heading": "Example.",
+      "conclusion": "Your parent, who met the tests to be your qualifying relative, died on January 15.",
+      "text_prefix": "Your parent, who met the tests to be your qualifying relative, died on January 15. You can claim your parent as a dependent on your return."
+    },
+    {
+      "example_id": "irsx_842680ed2987c650",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170959",
+      "heading": "Example.",
+      "conclusion": "However, your relationship violated the laws of the state where you live because your significant other was married to someone else.",
+      "text_prefix": "Your significant other lived with you as a member of your household all year. However, your relationship violated the laws of the state where you live because your significant other was married to someone else. Therefore"
+    },
+    {
+      "example_id": "irsx_8a3438ac01e395fc",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170972",
+      "heading": "Example.",
+      "conclusion": "If you spent more than $2,400 for your parent’s support and no other support was received, you have provided more than half of your parent’s support.",
+      "text_prefix": "Your parent received $2,400 in social security benefits and $300 in interest, paid $2,000 for lodging and $400 for recreation, and put $300 in a savings account. Even though your parent received a total of $2,700 ($2,400"
+    },
+    {
+      "example_id": "irsx_6d1903113a3b9716",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170976",
+      "heading": "Example.",
+      "conclusion": "If the allotment provides more than half of each person's support, you can claim each of them as a dependent, if they otherwise qualify, even though you authorize the allotment only for your surviving parent.",
+      "text_prefix": "You are in the Armed Forces. You authorize an allotment for your surviving parent that your surviving parent uses to support themselves and their sibling. If the allotment provides more than half of each person's support"
+    },
+    {
+      "example_id": "irsx_bb3173ae31943c27",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170979",
+      "heading": "Example 1.",
+      "conclusion": "You can’t claim your parent as a dependent because the $4,000 you provide isn’t more than half of your parent’s total support of $9,600 ($4,000 + $600 +$4,800 + $200).",
+      "text_prefix": "You provide $4,000 toward your parent’s support during the year. Your parent has earned income of $600, nontaxable social security benefits of $4,800, and tax-exempt interest of $200, all of which your parent uses for se"
+    },
+    {
+      "example_id": "irsx_fed52122d46d0191",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170980",
+      "heading": "Example 2.",
+      "conclusion": "You provide $2,000 toward their total support.",
+      "text_prefix": "Your sibling takes out a student loan of $2,500 and uses it to pay college tuition. Your sibling is personally responsible for the loan. You provide $2,000 toward their total support. You can’t claim them as a dependent "
+    },
+    {
+      "example_id": "irsx_7076b329f6623284",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170988",
+      "heading": "Example 1.",
+      "conclusion": "Fair rental value of lodging  \n $ 1,800  \n \n \n Clothing, transportation, and recreation  \n 2,400  \n \n \n Medical expenses  \n 1,200  \n \n \n Share of food (1/5 of $5,200)  \n 1,040  \n \n \n Total support \n $6,440 The support the married couple provide, $4,040 ($1,800 lodging + $1,200 medical expenses + $1,040 food), is more than half of the parent's $6,440 total support.",
+      "text_prefix": "A married couple lives with their two children and one of their parents. Their parent gets social security benefits of $2,400, which the parent spends for clothing, transportation, and recreation. The parent has no other"
+    },
+    {
+      "example_id": "irsx_d56c2b6b49948352",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170994",
+      "heading": "Example.",
+      "conclusion": "Therefore, you consider the total fair rental value of the lodging to be $6,000 ($3,600 fair rental value of the unfurnished house + $1,800 allowance for the furnishings provided by your parents + $600 cost of utilities) of which you are considered to provide $4,200 ($3,600 + $600).",
+      "text_prefix": "Your parents live rent free in a house you own. It has a fair rental value of $5,400 a year furnished, which includes a fair rental value of $3,600 for the house and $1,800 for the furniture. This doesn't include heat an"
+    },
+    {
+      "example_id": "irsx_babbac8adc89c873",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000170999",
+      "heading": "Example 1.",
+      "conclusion": "Because the lawn mower benefits all members of the household, don’t include the cost of the lawn mower in the support of your child.",
+      "text_prefix": "You buy a $200 power lawn mower for your 13-year-old child. The child is given the duty of keeping the lawn trimmed. Because the lawn mower benefits all members of the household, don’t include the cost of the lawn mower "
+    },
+    {
+      "example_id": "irsx_8903851b7826197e",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171000",
+      "heading": "Example 2.",
+      "conclusion": "You can include the cost of the television set in the support of your child.",
+      "text_prefix": "You buy a $150 television set as a birthday present for your 12-year-old child. The television set is placed in your child's bedroom. You can include the cost of the television set in the support of your child."
+    },
+    {
+      "example_id": "irsx_3c232cc9a4a2e156",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171001",
+      "heading": "Example 3.",
+      "conclusion": "However, you can include in your child's support your out-of-pocket expenses of operating the car for your child’s benefit.",
+      "text_prefix": "You pay $5,000 for a car and register it in your name. You and your 17-year-old child use the car equally. Because you own the car and don’t give it to your child but merely let your child use it, don’t include the cost "
+    },
+    {
+      "example_id": "irsx_4e1cde21d9a1ef79",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171002",
+      "heading": "Example 4.",
+      "conclusion": "You didn't provide more than half of the child’s total support, so the child isn't your qualifying relative.",
+      "text_prefix": "Your 17-year-old child, using personal funds, buys a car for $4,500. You provide the rest of your child's support, $4,000. Because the car is bought and owned by your child, the car's fair market value ($4,500) must be i"
+    },
+    {
+      "example_id": "irsx_e3f7a50eaa33de23",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171006",
+      "heading": "Example.",
+      "conclusion": "Because GI benefits are included in total support, your child’s total support is $4,200 ($2,200 + $2,000).",
+      "text_prefix": "During the year, your child receives $2,200 from the government under the GI Bill. Your child uses this amount for their education. You provide the rest of your child’s support, $2,000. Because GI benefits are included i"
+    },
+    {
+      "example_id": "irsx_a6407634979b8c7d",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171017",
+      "heading": "Example 1.",
+      "conclusion": "The one who claims your parent as a dependent must attach Form 2120, or a similar declaration, to their return and must keep the statement signed by the other for their records.",
+      "text_prefix": "You, and your siblings, Sam, Bobbi, and Dani, provide the entire support of your parent for the year. You provide 45%, Sam provides 35%, and Bobbi and Dani each provide 10%. Either you or Sam can claim your parent as a d"
+    },
+    {
+      "example_id": "irsx_0b74e3ce872741ad",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171018",
+      "heading": "Example 2.",
+      "conclusion": "Because more than half of your parent’s support is provided by persons who can’t claim your parent as a dependent, no one can claim your parent as a dependent.",
+      "text_prefix": "You and your sibling each provide 20% of your parent's support for the year. The remaining 60% of your parent’s support is provided equally by two persons who are unrelated. Your parent doesn't live with them. Because mo"
+    },
+    {
+      "example_id": "irsx_3e3dd21b224e7298",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171215",
+      "heading": "Example.",
+      "conclusion": "However, because the $1,750 total value of the awards is more than $1,600, you must include $150 ($1,750 – $1,600) in your income.",
+      "text_prefix": "You received three employee achievement awards during the year: a nonqualified plan award of a watch valued at $250, two qualified plan awards of a stereo valued at $1,000, and a set of golf clubs valued at $500. Assumin"
+    },
+    {
+      "example_id": "irsx_f36d50dc1bf7a8fa",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171292",
+      "heading": "Example.",
+      "conclusion": "You’re considered to be an agent of the order and any wages you earn at the hospital that you turn over to your order aren’t included in your income.",
+      "text_prefix": "You’re a member of a church order and have taken a vow of poverty. You renounce any claims to your earnings and turn over to the order any salaries or wages you earn. You’re a registered nurse, so your order assigns you "
+    },
+    {
+      "example_id": "irsx_b5d038655376279a",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171294",
+      "heading": "Example.",
+      "conclusion": "The wages you earn working for the school are included in your income.",
+      "text_prefix": "You are a member of a religious order and have taken a vow of poverty. You renounce all claims to your earnings and turn over your earnings to the order. You are a schoolteacher. You were instructed by the superiors of t"
+    },
+    {
+      "example_id": "irsx_b0c49e345f7aa2b6",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171311",
+      "heading": "Example.",
+      "conclusion": "Although the allowance isn’t available to you until the end of your service, you must include it in your income on a monthly basis as it’s credited to your account.",
+      "text_prefix": "You are a Peace Corps volunteer and get $175 a month as a readjustment allowance during your period of service, to be paid to you in a lump sum at the end of your tour of duty. Although the allowance isn’t available to y"
+    },
+    {
+      "example_id": "irsx_29b6182e8f089930",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171442",
+      "heading": "Example.",
+      "conclusion": "If you itemize your deductions on Schedule A (Form 1040), you can deduct $310, subject to the net investment income limit.",
+      "text_prefix": "You purchase a $10,000 certificate of deposit by borrowing $5,000 from Bank and adding an additional $5,000 of your funds. The certificate earned $575 at maturity in 2025, but you received only $265, which represented th"
+    },
+    {
+      "example_id": "irsx_e83d2cd62f109456",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171444",
+      "heading": "Example.",
+      "conclusion": "You must report $35 interest income on your tax return.",
+      "text_prefix": "You open a savings account at your local bank and deposit $800. The account earns $20 interest. You also receive a $15 calculator. If no other interest is credited to your account during the year, the Form 1099-INT you r"
+    },
+    {
+      "example_id": "irsx_0d0a3cb6e82e1e9d",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171454",
+      "heading": "Example.",
+      "conclusion": "You must include the $20 in your income for the year you can withdraw it.",
+      "text_prefix": "$100 of interest was credited on your frozen deposit during the year. You withdrew $80 but couldn’t withdraw any more as of the end of the year. You must include $80 in your income and exclude $20 from your income for th"
+    },
+    {
+      "example_id": "irsx_caaedbe4d4b1e67c",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171484",
+      "heading": "Example 1.",
+      "conclusion": "You later have the bond reissued as two $500 bonds, one in your name and one in your spouse’s name.",
+      "text_prefix": "You and your spouse each spent an equal amount to buy a $1,000 Series EE savings bond. The bond was issued to you and your spouse as co-owners. You both postpone reporting interest on the bond. You later have the bond re"
+    },
+    {
+      "example_id": "irsx_17a483b4a9200b00",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171485",
+      "heading": "Example 2.",
+      "conclusion": "You must report half the interest earned to the date of reissue.",
+      "text_prefix": "You bought a $1,000 Series EE savings bond entirely with your own funds. The bond was issued to you and your spouse as co-owners. You both postpone reporting interest on the bond. You later have the bond reissued as two "
+    },
+    {
+      "example_id": "irsx_526636adf8459000",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171508",
+      "heading": "Example 1.",
+      "conclusion": "Max and Helene can exclude $746.90 ($1,148 x ($4,000 ÷ $6,148)) of interest on their 2025 joint income tax return.",
+      "text_prefix": "Max and Helene married and paid $5,000 in January 2009 for a $10,000 denomination Series EE U.S. savings bond. They cashed the bond for $6,148 ($5,000 [price] + $1,148 [interest]) and paid $4,000 of college tuition for t"
+    },
+    {
+      "example_id": "irsx_73ee5406c0a9616b",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171527",
+      "heading": "Example 1.",
+      "conclusion": "(If you hold the bond at maturity, you will recognize $20 ($1,000 − $980) of capital gain.)",
+      "text_prefix": "You bought a 10-year bond with a stated redemption price at maturity of $1,000, issued at $980 with OID of $20. One-fourth of 1% of $1,000 (stated redemption price) times 10 (the number of full years from the date of ori"
+    },
+    {
+      "example_id": "irsx_ca4eb8b52212778b",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171528",
+      "heading": "Example 2.",
+      "conclusion": "Because the $50 discount is more than the $25 figured in  Example 1 , you must include the OID in income as it accrues over the term of the bond.",
+      "text_prefix": "The facts are the same as in  Example 1 , except that the bond was issued at $950. The OID is $50. Because the $50 discount is more than the $25 figured in  Example 1 , you must include the OID in income as it accrues ov"
+    },
+    {
+      "example_id": "irsx_d4d53214f97dac83",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171545",
+      "heading": "Example.",
+      "conclusion": "If you use the cash method, you must include in income on your 2025 return the $163.20 interest you received in that year.",
+      "text_prefix": "On August 31, 2023, you loaned another individual $2,000 at 4% interest, compounded annually. You aren’t in the business of lending money. The note stated that principal and interest would be due on August 30, 2025. In 2"
+    },
+    {
+      "example_id": "irsx_08cc403f76bf2603",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171548",
+      "heading": "Example.",
+      "conclusion": "You would report the interest as follows: 2023, $26.67; 2024, $81.06; and 2025, $55.47.",
+      "text_prefix": "If, in the previous example, you use an accrual method, you must include the interest in your income as you earn it. You would report the interest as follows: 2023, $26.67; 2024, $81.06; and 2025, $55.47."
+    },
+    {
+      "example_id": "irsx_ac24db4207e9f8be",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171947",
+      "heading": "Example 1.",
+      "conclusion": "You must include the fair market value of the shares in your income on Schedule C (Form 1040) in the year you receive them.",
+      "text_prefix": "You’re a self-employed attorney who performs legal services for a client, a small corporation. The corporation gives you shares of its stock as payment for your services. You must include the fair market value of the sha"
+    },
+    {
+      "example_id": "irsx_1301ff487537a163",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171948",
+      "heading": "Example 2.",
+      "conclusion": "You must include in your income the value of the credit units that are added to your account, even though you may not actually receive goods or services from other members until a later tax year.",
+      "text_prefix": "You’re self-employed and a member of a barter club. The club uses  credit units  as a means of exchange. It adds credit units to your account for goods or services you provide to members, which you can use to purchase go"
+    },
+    {
+      "example_id": "irsx_f4980a2b536d1b97",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000171949",
+      "heading": "Example 3.",
+      "conclusion": "You must report as rental income on Schedule E (Form 1040), Supplemental Income and Loss, the fair market value of the artwork, and the artist must report as income on Schedule C (Form 1040) the fair rental value of the apartment.",
+      "text_prefix": "You own a small apartment building. In return for 6 months rent-free use of an apartment, an artist gives you a work of art she created. You must report as rental income on Schedule E (Form 1040), Supplemental Income and"
+    },
+    {
+      "example_id": "irsx_b29293c16a97ef1a",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172002",
+      "heading": "Example.",
+      "conclusion": "Report the state and local income tax refund of $400 on Schedule 1 (Form 1040), line 1, and the balance of your recoveries, $525, on Schedule 1 (Form 1040), line 8z.",
+      "text_prefix": "For 2024, you filed a joint return. Your taxable income was $60,000 and you weren’t entitled to any tax credits. Your standard deduction was $29,200, and you had itemized deductions of $30,700. In 2025, you received the "
+    },
+    {
+      "example_id": "irsx_df69001e57d843ce",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172005",
+      "heading": "Example.",
+      "conclusion": "This is the smaller of your recoveries ($2,100) or the amount by which your itemized deductions were more than the standard deduction ($29,450 − $29,200 = $250).",
+      "text_prefix": "You filed a joint return on Form 1040 for 2024 with taxable income of $45,000. Your itemized deductions were $29,450. The standard deduction that you could have claimed was $29,200. In 2025, you recovered $2,100 of your "
+    },
+    {
+      "example_id": "irsx_b2590cac66fc7d42",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172007",
+      "heading": "Example.",
+      "conclusion": "The only amount of the $500 reimbursement that must be included in your income for 2025 is $200—the amount actually deducted.",
+      "text_prefix": "During 2024, you paid $1,700 for medical expenses. Of this amount, you deducted $200 on your 2024 Schedule A (Form 1040). In 2025, you received a $500 reimbursement from your medical insurance for your 2024 expenses. The"
+    },
+    {
+      "example_id": "irsx_caf2847637e596c5",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172069",
+      "heading": "Example.",
+      "conclusion": "Your basis in the car is $22,000.",
+      "text_prefix": "You buy a new car for $24,000 cash and receive a $2,000 rebate check from the manufacturer. The $2,000 isn’t income to you. Your basis in the car is $22,000. This is the basis on which you figure gain or loss if you sell"
+    },
+    {
+      "example_id": "irsx_63a2862d181f4512",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172125",
+      "heading": "Example.",
+      "conclusion": "You must include the kickbacks in your income.",
+      "text_prefix": "You sell cars and help arrange car insurance for buyers. Insurance brokers pay back part of their commissions to you for referring customers to them. You must include the kickbacks in your income."
+    },
+    {
+      "example_id": "irsx_ff98d671486e5668",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172138",
+      "heading": "Example.",
+      "conclusion": "You bought the painting for $20 at a garage sale years ago.",
+      "text_prefix": "You sold a painting on an online auction website for $100. You bought the painting for $20 at a garage sale years ago. Report your gain as a capital gain as explained in the Instructions for Schedule D (Form 1040)."
+    },
+    {
+      "example_id": "irsx_1e85c9f2d2b6cfa3",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172609",
+      "heading": "Example 1.",
+      "conclusion": "Your IRA contributions for 2025 are limited to $7,000.",
+      "text_prefix": "You are 34 years old and single and earned $24,000 in 2025. Your IRA contributions for 2025 are limited to $7,000."
+    },
+    {
+      "example_id": "irsx_d36c3d93b05c61a6",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172610",
+      "heading": "Example 2.",
+      "conclusion": "Your IRA contributions for 2025 are limited to $3,500, the amount of your compensation.",
+      "text_prefix": "You are an unmarried college student working part time and earned $3,500 in 2025. Your IRA contributions for 2025 are limited to $3,500, the amount of your compensation."
+    },
+    {
+      "example_id": "irsx_880041bb7c6bb6f7",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000172678",
+      "heading": "Example.",
+      "conclusion": "You must designate this contribution as a nondeductible contribution by reporting it on Form 8606, as explained next.",
+      "text_prefix": "You are 30 years old and single. In 2025, you were covered by a retirement plan at work. Your salary was $67,000. Your modified AGI was $90,000. You made a $7,000 IRA contribution for 2025. Because you were covered by a "
+    },
+    {
+      "example_id": "irsx_9d5826f77a30be43",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000173205",
+      "heading": "Example.",
+      "conclusion": "The remaining $17 ($0.50 × 34), based on the weight, isn’t deductible.",
+      "text_prefix": "Your state charges a yearly motor vehicle registration tax of 1% of value plus 50 cents per hundredweight. You paid $32 based on the value ($1,500) and weight (3,400 lbs.) of your car. You can deduct $15 (1% × $1,500) as"
+    },
+    {
+      "example_id": "irsx_6834b8f99b16a800",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204275",
+      "heading": "Example 1—Child files joint return.",
+      "conclusion": "The couple files a joint return so this child isn't your qualifying child.",
+      "text_prefix": "You supported your 18-year-old child who lived with you all year while your child’s spouse was in the Armed Forces. Your child’s spouse earned $35,000 for the year. The couple files a joint return so this child isn't you"
+    },
+    {
+      "example_id": "irsx_1f024703f89bab96",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204283",
+      "heading": "Example 1—Child lived with parent and grandparent.",
+      "conclusion": "This means your parent can claim Jordan as a qualifying child for all of the five tax benefits listed earlier, if your parent qualifies for each of those benefits (and if you don’t claim Jordan as a qualifying child for any of those tax benefits).",
+      "text_prefix": "You and your 3-year-old child Jordan lived with your parent all year. You are 25 years old and unmarried, and your AGI is $9,000. Your parent's AGI is $15,000. Your child’s other parent didn't live with you or your child"
+    },
+    {
+      "example_id": "irsx_e5fc7bec8666bb57",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204284",
+      "heading": "Example 2—Parent has higher AGI than grandparent.",
+      "conclusion": "The facts are the same as in  Example 1 , except your AGI is $18,000.",
+      "text_prefix": "The facts are the same as in  Example 1 , except your AGI is $18,000. Because your parent's AGI isn't higher than yours, your parent can’t claim Jordan. Only you can claim Jordan."
+    },
+    {
+      "example_id": "irsx_da02cd96cb4f4c13",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204285",
+      "heading": "Example 3—Two persons claim same child.",
+      "conclusion": "However, your parent may qualify for the earned income credit as a taxpayer without a qualifying child.",
+      "text_prefix": "The facts are the same as in  Example 1 , except you and your parent both claim Jordan as a qualifying child. In this case, you, as the child's parent, will be the only one allowed to claim the child as a qualifying chil"
+    },
+    {
+      "example_id": "irsx_bf55cffbca51279d",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204286",
+      "heading": "Example 4—Qualifying children split between two persons.",
+      "conclusion": "However, if your parent's AGI is higher than yours, you can allow your parent to claim one or more of the children.",
+      "text_prefix": "The facts are the same as in  Example 1 , except you also have two other young children who are qualifying children of both you and your parent. Only one of you can claim each child. However, if your parent's AGI is high"
+    },
+    {
+      "example_id": "irsx_147501efa036c575",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204287",
+      "heading": "Example 5—Taxpayer who is a qualifying child.",
+      "conclusion": "This means you are your parent's qualifying child.",
+      "text_prefix": "The facts are the same as in  Example 1 , except you are only 18 years old and didn't provide more than half of your own support for the year. This means you are your parent's qualifying child. If your parent can claim y"
+    },
+    {
+      "example_id": "irsx_f8dc8941b5855eb6",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204291",
+      "heading": "Example 8—Unmarried parents.",
+      "conclusion": "This means you can claim Marley as a qualifying child for the child tax credit, head of household filing status, the credit for child and dependent care expenses, the exclusion for dependent care benefits, and the earned income credit, if you qualify for each of those tax benefits (and if the other parent doesn't claim Marley as a qualifying child for any of those tax benefits).",
+      "text_prefix": "You, your 5-year-old child, Marley, and Marley’s other parent lived together in the United States all year. You and Marley’s other parent aren't married. Marley is a qualifying child of both you and the other parent beca"
+    },
+    {
+      "example_id": "irsx_39736551ff18566f",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204292",
+      "heading": "Example 9—Unmarried parents claim same child.",
+      "conclusion": "However, you may be able to claim the earned income credit as a taxpayer without a qualifying child.",
+      "text_prefix": "The facts are the same as in  Example 8 , except you and Marley’s other parent both claim Marley as a qualifying child. In this case, only the other parent will be allowed to treat Marley as a qualifying child. This is b"
+    },
+    {
+      "example_id": "irsx_cd479bc22c4ace11",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204293",
+      "heading": "Example 10—Child didn't live with a parent.",
+      "conclusion": "This is because your parent’s AGI, $15,000, is more than your AGI, $9,300.",
+      "text_prefix": "You and your sibling’s child, Reid, lived with your parent all year. You are 25 years old, and your AGI is $9,300. Your parent’s AGI is $15,000. Reid’s parents file jointly, have an AGI of less than $9,000, and don’t liv"
+    },
+    {
+      "example_id": "irsx_e338b6ef14787608",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000204297",
+      "heading": "Example 3.",
+      "conclusion": "Your parent can't claim the earned income credit as a taxpayer without a qualifying child because your parent’s AGI is more than $19,104.",
+      "text_prefix": "The facts are the same as in  Example 1 , except you and your parent both claim Kody as a qualifying child for the earned income credit. Your parent also claims Kody as a qualifying child for head of household filing sta"
+    },
+    {
+      "example_id": "irsx_b02a14bc21d20709",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000220518",
+      "heading": "Example 2—Child files joint return only as claim for refund of withheld tax.",
+      "conclusion": "The exception to the joint return test applies, so you aren't disqualified from claiming each of them as a dependent just because they file a joint return.",
+      "text_prefix": "Your 18-year-old child and your child’s 17-year-old spouse had $800 of wages from part-time jobs and no other income. They lived with you all year. Neither is required to file a tax return. They don’t have a child. Taxes"
+    },
+    {
+      "example_id": "irsx_2a7bea90b6e1115c",
+      "source": "p17",
+      "source_label": "IRS Pub. 17",
+      "section_id": "en_US_2025_publink1000220522",
+      "heading": "Example 2—Child files joint return only as a claim for refund of withheld tax.",
+      "conclusion": "The exception to the joint return test applies, so this child may be your qualifying child if all the other tests are met.",
+      "text_prefix": "Your 18-year-old child and your child’s 17-year-old spouse had $800 of wages from part-time jobs and no other income. They lived with you all year. Neither is required to file a tax return. They don’t have a child. Taxes"
+    }
+  ]
+}
